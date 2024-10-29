@@ -28,7 +28,7 @@ These images were collected from various sources and represent diverse demograph
 
 - **Programming Language**: Python
 - **Libraries**: TensorFlow, Keras, NumPy, Pandas, Matplotlib, OpenCV
-- **Environment**: Jupyter Notebook for development and testing
+- **Environment**: Google Colab for development and testing
 - **Version Control**: GitHub for code management and collaboration
 
 
